@@ -1,0 +1,10 @@
+{
+  "java.server.launchMode": "Standard",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ],
+  "[java]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false
+  }
+}
