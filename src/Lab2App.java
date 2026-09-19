@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author 
  */
 
-public class Lab2AppOriginal 
+public class Lab2App
 {
 	public static void main(String[] args)
 	{
