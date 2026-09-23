@@ -5,6 +5,7 @@
   ],
   "[java]": {
     "editor.tabSize": 4,
-    "editor.insertSpaces": false
+    "editor.insertSpaces": false,
+    "editor.inlayHints.enabled": "off"
   }
 }
